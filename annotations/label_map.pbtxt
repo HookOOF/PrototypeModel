@@ -1,0 +1,20 @@
+item { 
+	name:'plate'
+	id:1
+}
+item { 
+	name:'bowl'
+	id:2
+}
+item { 
+	name:'drink'
+	id:3
+}
+item { 
+	name:'cutlery'
+	id:4
+}
+item { 
+	name:'other'
+	id:5
+}
